@@ -1,0 +1,64 @@
+Institutional Characteristics HD:
+2020 and 2021 differ in their Carnegie Classifications (because those were updated).
+Otherwise they are the same.
+
+2020 = 2019 = 2018
+
+2018 and 2017 differ on Carnegie Classifications again.
+
+2017 = 2016
+
+2015 lacks DISURL and DUNS. IALIAS moves columns.
+
+2014 is the same as 2015 except for different Carnegie Classifications.
+
+2013 adds FAXTELE (FAX number) and loses VETURL and ATHURL.
+
+2012 has FAXTELE in a different place and loses F1SYSCOD, DFRCGID, and DFRCUSCG.
+
+2011 adds TENURSYS ("does institution have a tenure system").
+
+2010 loses NPRICURL and adds back in DFRCGID.
+
+2009 loses F1SYSTYP and F1SYSNAM. LONGITUD and LATITUDE are in different places.
+
+2008, HDEGOFFR is named HDEGOFR1 (at some point this change back - when?). It loses
+LONGITUD, LATITUDE, COUNTYCD, COUNTYNM, CNGDSTCD.
+
+2007 = 2008
+
+2006 added FINTELE and ADMTELE (phone numbers), DUNS (in again). Lost ADMINURL,
+FAIDURL, APPLURL, CBSA, CBSATYPE, CSA, and NECTA.
+
+2005 loses DFRCGID.
+
+2004, CARNEGIE is in a different place and CCBASIC, CCIPUG, CCIPGRAD, CCUGPROF,
+CCENRPRF, CCSIZSET, INSTCAT, INSTSIZE, LANDGRNT are lost.
+
+2003 adds STATFA (response status), STAT_IC, LOCK_IC, STAT_C, LOCK_C, PRCH_C,
+IDX_C, IMP_C, STAT_WI, STAT_EF, LOCK_EF, PRCH_EF, IDX_EF, IMP_EF, PTA99_EF, PTB_EF,
+PTC_EF, PTD_EF, and a bunch of others. Adds back F1SYSTYP, F1SYSNAM. Loses RPTMTH,
+INSTCAT, and TENURSYS.
+
+2002 adds AFFIL - affiliation of institution. Adds PCTMIN1, PCTMIN2, PCTMIN3, PCTMIN4
+ (minority percentages).
+
+2001 loses POSTSEC.
+
+2000 loses PSEFLAG, PSET4FLG.
+
+1999 moves some "junk" from bottom up to top, also moves CYACTIVE and CLOSEDAT. Adds COUNTYNM, COUNTYGEO.
+Loses DEGGRANT, OPENPUBL.
+
+1998 loses WEBADDR.
+
+1997 loses "junk," CYACTIVE, CLOSEDAT. Adds FICE. Loses DUNS, OPEFLAG, UGOFFER, GROFFER.
+Adds SOURCE. Moves LOCALE, OPEID, adds OPEIND, moves HDEGOFFR, adds "junk", moves CNTYGEO, ADDR,
+ZIP, COUNTYNM. Adds CONGDIST. Moves GENTELE, FINTELE, ADMTELE, EIN, CHFNM, CHFTITLE. Loses
+ACT, NEWID, DEATHYR, "junk". *Adds FICE, SOURCE, OPEIND, CONGDIST* Also FPOFFER was added at some point.
+
+INST 2:
+1999 OPENADMP becomes ADMREQ
+
+
+
